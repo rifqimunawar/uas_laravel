@@ -1,0 +1,36 @@
+catatan laravel
+
+ketika user request -> routers web.php -> return view ('welcome') -> di direct ke view file welcome ->
+
+pembuatan database melalui coding
+- sambungkn dulu database yang sudah dibuat di php my admin dengan .env
+create table
+- "php artisan migrate", lalu akan muncul tabel bawaan laravel, - untuk menambahkan table pada database 
+"php artisan make:migrate create_(isikan nama table)"
+-masuk ke table yang sudah di buat dalam folder migrate, lalu tambahkan kolom (nama, kelas, nik, dll, dan tentukan tipe datanya),  selamat pembuatan database selesai
+
+membuat model (model itu berkaitan dengan database)
+-"php artisan make:model" (masukan nama model sesuai dengan nama kolom yang ada di database, jangan lupa di awali dengan huruf besar)
+- setelah membuat model, laravel akan menganggap tabel=jamak, nama model singgle, maka di tambahkan "protected $table='Perpus';" 
+-membuat route di file web.php
+
+
+
+Assalamu'alaikum
+#SalamPergerakan??
+
+
+
+Pantengin terus Instagram kami untuk mendapatkan informasi lebih lanjut
+
+Follow Us:
+@pmiikotabdg_official
+@pkpmiiuninus
+@pmiiteknik_uninus
+@rayonfikomuninus
+@pmii_rayonfakultashukum
+@pmii_rayonfe_uninus
+@pmii_fai_uninus
+@pmiirayon_fkipuninus
+________
+#pmii #pmiikece #pmiikeren #pmiiseru #pmiimajumendunia #pmiiteknik #pmiimaju #pmiiteknikuninus #pmiizamannow #pegerakan #pmiiuninus #uninus #uninusbandung #uninusjuara #SalamPergerakan #pmiiintelektual #pmiibdg #pmiijabar #pmiinusantara #kopri #kopripmii #kopriuninus #pbpmii #pbpmii_official #kopribandung #pmiikece?? #pmiikeren??????
